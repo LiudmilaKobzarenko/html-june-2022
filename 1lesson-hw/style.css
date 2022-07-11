@@ -1,0 +1,42 @@
+body {
+    background-color: lightgray;
+}
+
+h1, h2 {
+    background-color: white;
+    width: 500px;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    width: 500px;
+}
+
+.family {
+    color: cadetblue;
+}
+
+li {
+    color: dimgrey;
+    list-style-type: none;
+}
+
+.homer {
+    color: cornflowerblue;
+}
+
+.bart {
+    color: darkorange;
+}
+
+.lisa {
+    color: hotpink;
+}

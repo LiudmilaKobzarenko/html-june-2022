@@ -1,0 +1,39 @@
+body {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.header,
+.footer {
+    background: cornflowerblue;
+}
+
+.header {
+    padding: 50px 0;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+.header,
+.main {
+    margin-bottom: 20px;
+}
+
+.main {
+    display: flex;
+    column-gap: 20px;
+    height: 200px;
+}
+
+.big, .bigger, .huge {
+    background: #335C81;
+    padding: 10% 0;
+    width: 33%;
+}
+
+.footer {
+    padding: 100px 0;
+}
