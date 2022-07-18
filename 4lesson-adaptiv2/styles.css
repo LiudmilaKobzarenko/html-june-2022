@@ -10,7 +10,7 @@
     border-radius: 10px;
 }
 
-.menu, .content, .cart, .scroll {
+.menu, .content, .cart, .scroll{
     background: silver;
     margin: 5px;
     border-radius: 10px;
@@ -20,7 +20,7 @@
     height: 200px;
 }
 
-.menu, .main, .content, .carts, .cart, .scroll {
+.menu, .main, .content, .carts, .cart, .scroll{
     display: flex;
     justify-content: center;
     align-items: center;
